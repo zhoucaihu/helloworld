@@ -1,1 +1,3 @@
-adsdasdasd
+{
+    "result": "{"productNo":"CM18080250000114455","applyTime":"2018-08-02 12:56:46","appLimit":"40000","lng":"120.317667","mac":"","maritalStatus":"90","city":"南京市","appTerm":"24","appTermType":"M","province":"江苏省","userName":"严兵","model_fw_app_credit_none_model_V2S1_transNo":"83f104da463745e99138e6b850eddc7f","entityAuthCode":"18870","district":"建邺区","workOrg":"江苏宁兴建设工程有限公司","lat":"32.863815","distance_range":"1000","requestId":"main_18870_10002_81275fc830424cf583eafb99d74a270c_0_2","imei":"","applyNo":"18870","identityCard":"32098119770503001X","modelGroup":"{}","workAddress":"江东中路303号奥体名座D座1709室","bankCard":"6212264301016071340","ip":"223.104.147.104","entityAuthDate":"2018-08-02","modelRatio":"{n    "credit": {n        "0<=x<=1000": "10000"n    }, n    "ispass": "0", n    "version": "1"n}","address":"","productChannel":"wygjj","imsi":"","mqUser":"1f9e6ee9698a4a4d9843ec89bafd6967","idfa":"","mobile":"15061682888"}"
+}
